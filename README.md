@@ -1,8 +1,6 @@
 # Internship And Job List(Foreign) for Year 2020
 The repo contains all the top companies(US and worldwide) for **internship** and **Job opportunities**, so do have a look and if liked it please share so that someone can be benefited from this.
 And please **Don't forget to star** this repo.
-<hr>
-( **Note** - 2021 students can apply for Internship and 2020 students can apply for Job.)
 # List of Opportunities
 <table>
 <thead>
