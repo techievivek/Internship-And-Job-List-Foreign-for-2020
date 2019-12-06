@@ -1,3 +1,4 @@
+Please update the <b>Application Period</b> status(Present/ Closed) by creating a pull request, that will be really nice of you and helpful for everyone out there.
 # Internship And Job List(Foreign) for Year 2020
 The repo contains all the top companies(US and worldwide) for **internship** and **Job opportunities**, so do have a look and if liked it please share so that someone can be benefited from this.
 And please **Don't forget to star** this repo.
