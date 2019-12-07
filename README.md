@@ -40,13 +40,13 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://us-redhat.icims.com/jobs/72990/software-engineering-internship---cloud-security-technologies/job?hub=7&amp;mobile=false&amp;width=1011&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-420&amp;jun1offset=-420" rel="nofollow">Red hat</a></td>
 <td>New York</td>
-<td>Present</td>
+<td>Closed</td>
 <td>Golang, Python programming skills</td>
 </tr>
 <tr>
 <td><a href="https://jobs.citrix.com/job/CITRA0058R18394/Software-Engineer-Intern-Summer-2020" rel="nofollow">Citrix</a></td>
 <td>Ft Lauderdale, Florida</td>
-<td>Present</td>
+<td>Closed</td>
 <td>Min. GPA 3.3</td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/" rel="nofollow">Fidelity Investments</a></td>
 <td>US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield</td>
-<td>Present</td>
+<td>Closed</td>
 <td></td>
 </tr>
 <tr>
